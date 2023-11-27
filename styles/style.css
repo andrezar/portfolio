@@ -142,7 +142,11 @@ body {
     .apresentacao {
         flex-direction: column-reverse;
 
-    }´
+    }
+
+        .apresentacao__conteudo {
+        width: auto;
+    }   
 
     
 
