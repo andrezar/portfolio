@@ -1,7 +1,9 @@
 # Portfólio 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/andrezar/portf-lio/assets/109299595/d1febed1-b71d-4705-9d02-76caf8d3e70a)
+![alura_plus_index](https://github.com/andrezar/portfolio/assets/109299595/3d7a6f1f-a3f2-4a2b-aa51-8f9ead0c2910)
+
+
 
 ## Ferramentas utilizadas:
 
@@ -15,6 +17,5 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ### Andreza Ramos
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
 
 ```)
