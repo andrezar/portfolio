@@ -1,7 +1,8 @@
 # Portfólio 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![alura_plus_index](https://github.com/andrezar/portfolio/assets/109299595/3d7a6f1f-a3f2-4a2b-aa51-8f9ead0c2910)
+
+![image](https://github.com/andrezar/portf-lio/assets/109299595/d1febed1-b71d-4705-9d02-76caf8d3e70a)
 
 
 
